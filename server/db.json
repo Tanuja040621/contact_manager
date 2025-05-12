@@ -1,0 +1,78 @@
+{
+  "contacts": [
+    {
+      "id": "D012",
+      "name": "Priyank Gaikwaad",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7Jf7L1uLyKL81OhzN2fk-x0OSKXABNLEZYg&s",
+      "mobile": "934567890",
+      "email": "priyank@gmail.com",
+      "company": "Wipro",
+      "title": "HR Manager",
+      "group": "4",
+      "groupId": "5"
+    },
+    {
+      "id": "eac0",
+      "name": "Tanuja Jogdand",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuvwJG3J0AvDmbaE8_obrEW5IHHEB2zDaYEw&s",
+      "mobile": "9834591173",
+      "email": "tanujajogdand123@gmail.com",
+      "company": "Fresher",
+      "title": "Frontend Developer",
+      "group": "4"
+    },
+    {
+      "id": "c702",
+      "name": "Sakshi Jogdand",
+      "photo": "https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png",
+      "mobile": "987654321",
+      "email": "sakshi2@gmail.com",
+      "company": "Wipro",
+      "title": "java developer",
+      "group": "3"
+    },
+    {
+      "id": "6304",
+      "name": "Sandip Jogdand",
+      "photo": "https://cdn-icons-png.freepik.com/512/6858/6858457.png",
+      "mobile": "9123456789",
+      "email": "sandipjogdand2@gmail.com",
+      "company": "Wipro",
+      "title": "java developer",
+      "group": "4",
+      "groupId": "4"
+    },
+    {
+      "id": "60d8",
+      "name": "Samiksha",
+      "photo": "https://cdn.vectorstock.com/i/1000v/01/69/businesswoman-character-avatar-icon-vector-12800169.jpg",
+      "mobile": "912345678",
+      "email": "tanujajogdand123@gmail.com",
+      "company": "TCS",
+      "title": "Frontend Developer",
+      "group": "3"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Acquaintance"
+    },
+    {
+      "id": "5",
+      "name": "Client"
+    }
+  ]
+}
